@@ -1,0 +1,2 @@
+@import url('./dark.css') screen and (prefered-color-scheme: dark);
+@import url('./light.css') screen and (prefered-color-scheme: light);
